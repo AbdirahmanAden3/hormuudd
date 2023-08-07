@@ -1,0 +1,112 @@
+
+.d{
+    display: inline-flex;
+    margin-right: 2px;
+}
+.bb{
+    background-color: #16A255;;
+}
+.carousel-caption{ 
+    bottom: 250px;
+   
+}
+carousel-caption h5{
+    font-size: 45px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    margin: 25px;
+}
+carousel-caption  p{
+    font-size: 45px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    margin: 25px;
+    
+    
+}
+
+.media{
+  
+    color: #16A255;
+    
+}
+.c{
+    color: #16A255;
+}
+.ff{
+    color: #16A255;
+}
+.f{
+    background-color: #8ed1fc;
+}
+
+
+.tijabo{
+    top: 20rem;
+}
+ .cw{
+    position: relative;
+     bottom: 15rem; 
+} 
+.ee{
+    position: absolute;
+    top: 153px;
+    left: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 10px;
+}
+.ee2{
+    position: absolute;
+    top: 153px;
+    left: 313px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 10px;
+
+}
+.ee3{
+    position: absolute;
+    top: 153px;
+    left: 605px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 10px;
+
+
+}
+.ee4{
+    position: absolute;
+    top: 153px;
+    left: 878px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 10px;
+
+}
+.ee i,.ee2 i, .ee3 i, .ee4 i{
+  font-size: 28px;
+  color: #fff;
+}
+.ee h6, .ee2 h6, .ee3 h6 , .ee4 h6{
+      color: #fff;
+      margin-top: 24px;
+      line-height: 0;
+}
+.ee span, .ee2 span, .ee3 span, .ee4 span{
+    color: #fff;
+   text-align: center;
+   margin-top: 1px;
+}
+
+/* .fff{
+     color: #db4343;
+     font-size: 25px;
+     font-weight: bold;
+     margin-bottom: 240px;
+ 
+} */
